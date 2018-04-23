@@ -1,0 +1,16 @@
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  text-align: center;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+.link {
+  color: Aquamarine;
+  font-size: 16px;
+}
